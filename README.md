@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **SephirothAgent/SephirothAgent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![banner](https://github.com/user-attachments/assets/5fdccf71-3af3-4abb-88df-53088394d627)
