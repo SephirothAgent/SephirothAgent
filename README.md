@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![banner](https://github.com/user-attachments/assets/5fdccf71-3af3-4abb-88df-53088394d627)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SephirothAgent&theme=cobalt&show_icons=true)
