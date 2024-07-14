@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![banner](https://github.com/user-attachments/assets/5fdccf71-3af3-4abb-88df-53088394d627)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=SephirothAgent&row=1&column=9&theme=oldie)
+![trophy](https://github-profile-trophy.vercel.app/?username=SephirothAgent&title=Commits,Followers)
