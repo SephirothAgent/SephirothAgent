@@ -3,9 +3,15 @@
 
 ![image](https://github.com/user-attachments/assets/414aedfb-e605-4d6e-9a84-1c5f0636ef4a)
 
----
 
-### 🎮 Scripting sorcerer weaving tales through code
+<div id="header" align="center">
+          <h1>Hi, I'm Sasha</hl>
+          <h3>Full Stack Developer from Russia</h3> 
+          🎮 Scripting sorcerer weaving tales through code 🎮
+          
+</div>
+
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SephirothAgent&theme=highcontrast&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 
