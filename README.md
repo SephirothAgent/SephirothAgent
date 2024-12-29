@@ -5,10 +5,11 @@
 
 
 <div id="header" align="center">
-          <h1>Hi, I'm Sasha</hl>
-          <h3>Full Stack Developer from Russia</h3> 
-          🎮 Scripting sorcerer weaving tales through code 🎮
-          
+  <h1>Hi, I'm Sasha</h1>
+  <h3>
+    <a href="https://github.com/SephirothAgent/SephirothAgent/wiki/Portfolio">Full Stack Developer from Russia</a>
+  </h3>
+  <p>🎮 Scripting sorcerer weaving tales through code 🎮</p>
 </div>
 
 ---
@@ -19,7 +20,7 @@
 
 ---
 
-<div id="header" align="center">
+<div id="header" align=.5>
   <h1><img src="https://github-profile-trophy.vercel.app/?username=SephirothAgent&title=Commits,Followers&theme=juicyfresh" alt="Trophy" /></h1>
 </div>
           
