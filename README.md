@@ -19,7 +19,10 @@
 
 ---
 
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=SephirothAgent&title=Commits,Followers&theme=juicyfresh)
 
-          
+<div id="header" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SephirothAgent&title=Commits,Followers&theme=juicyfresh" alt="Trophy" />
+</div>
           
