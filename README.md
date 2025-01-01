@@ -7,7 +7,7 @@
 <div id="header" align="center">
   <h1>Hi, I'm Sasha</h1>
   <h3>
-    <a href="https://github.com/SephirothAgent/SephirothAgent/wiki/Portfolio">Full Stack Developer from Russia</a>
+    <a href="https://github.com/SephirothAgent/SephirothAgent/wiki/Home">Full Stack Developer from Russia</a>
   </h3>
   <p>🎮 Scripting sorcerer weaving tales through code 🎮</p>
 </div>
