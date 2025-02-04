@@ -16,7 +16,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SephirothAgent&theme=highcontrast&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 
-![My Skills](https://skillicons.dev/icons?i=unreal,gamemakerstudio,godot,java,py,js,dotnet,html,pytorch,git,github,stackoverflow,anaconda,npm,figma,sketchup,ae,ps,xd,ai,ableton,visualstudio,vscode,idea,pycharm,bash,powershell,notion,obsidian,discord)
+![My Skills](https://skillicons.dev/icons?i=unreal,gamemakerstudio,godot,java,py,js,dotnet,git,github,ae,ps,xd,ai,notion,discord)
 
 ---
 
