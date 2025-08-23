@@ -29,7 +29,7 @@ Check my ArtStation profile
 ㅤ
 
 ### ㅤㅤㅤMiddle Game Designer: 
-I contributed to 30+ projects.
+I contributed to 30+ projects: * list * ... 
 
 ㅤ
 
